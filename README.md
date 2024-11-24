@@ -12,6 +12,12 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
+
+### this project is also deployed onn netlify
+
+    Link : https://rbac-vrvsec.netlify.app/
+
+
 ### Mock Login Data for User and Admin:
 
 For General User:
@@ -30,3 +36,5 @@ By this i will ensure security of users confidential data.
 This is frontend project so i used mock data but i also implemented this with actual backend and i made robust system with security so that anyone can not see password of any user in database also. 
 
 In database also , password stored in hash format.
+
+
